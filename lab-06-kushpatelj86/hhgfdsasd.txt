@@ -1,0 +1,1 @@
+{"num1": 3.0, "num2": 4.0}{"addition": 7.0, "subtraction": -1.0, "multiplication": 12.0, "division": 0.75}
